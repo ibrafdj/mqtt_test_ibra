@@ -1,4 +1,4 @@
-# Ini file utama
+# This is the main file
 import json
 import time
 import os
