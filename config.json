@@ -1,0 +1,7 @@
+{
+    "broker_ip": "test.mosquitto.org",
+    "broker_port": 1883,
+    "topic": "docker/test/topic",
+    "publish_frequency": 5,
+    "data_string": "Hello from Docker!"
+}
