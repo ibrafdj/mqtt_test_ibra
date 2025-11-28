@@ -1,3 +1,4 @@
+# Ini file utama
 import json
 import time
 import os
